@@ -1,0 +1,10 @@
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Anitha Raman', 'Coimbatore', 2499.0, '2026-11-01', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Bala Murugan', 'Chennai', 899.0, '2026-11-02', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Charan Raj', 'Coimbatore', 15999.0, '2026-11-03', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Deepa Lakshmi', 'Madurai', 1250.0, '2026-11-04', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Elango Pandian', 'Coimbatore', 7350.0, '2026-11-05', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Farhana Begum', 'Chennai', 4200.0, '2026-11-06', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Gokul Nath', 'Madurai', 560.0, '2026-11-07', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Harini Sree', 'Coimbatore', 3100.0, '2026-11-08', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Imran Khan', 'Chennai', 9800.0, '2026-11-09', 'PLACED');
+INSERT INTO customer_orders (customer_name, city, amount, order_date, status) VALUES ('Janani Sri', 'Salem', 1999.0, '2026-11-10', 'PLACED');

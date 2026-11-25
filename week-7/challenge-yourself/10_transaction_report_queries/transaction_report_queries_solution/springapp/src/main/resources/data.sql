@@ -1,0 +1,9 @@
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB1000000001', 'DEPOSIT', 5000.0, '2026-11-01', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB1000000002', 'WITHDRAW', 1200.0, '2026-11-02', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB1000000001', 'WITHDRAW', 750.0, '2026-11-03', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB1000000003', 'DEPOSIT', 25000.0, '2026-11-03', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB1000000002', 'DEPOSIT', 8200.0, '2026-11-04', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB2000000001', 'TRANSFER', 3300.0, '2026-11-05', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB1000000003', 'WITHDRAW', 4500.0, '2026-11-06', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB2000000001', 'DEPOSIT', 640.0, '2026-11-07', 'COMPLETED');
+INSERT INTO account_transactions (account_no, txn_type, amount, txn_date, status) VALUES ('SB1000000001', 'TRANSFER', 9100.0, '2026-11-08', 'COMPLETED');
